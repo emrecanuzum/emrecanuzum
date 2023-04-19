@@ -1,4 +1,5 @@
 # 💫 About Me:
+Computer Science & Engineering student in İstanbul Kultur University <br>
 🔭 I’m currently working on Budget Blocks and Fake New Detection System for my Graduation Project<br>👯 I’m in SuperteamDAO Turkey<br>🌱 I’m currently learning Neural Networks and Backend<br>💬 Ask me about Blockchain<br>
 
 
