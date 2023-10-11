@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 Computer Engineering grad. young man in İstanbul Kultur University with Fake News Detection project.<br>
+📖 software developer that Computer Engineering grad. from İstanbul Kultur University with Fake News Detection project.<br>
 💻 I'm building mostly front-end and full-stack websites as a remote worker.<br>
 🔭 I’m currently working on a project for Solana hackathon<br>
 👯 I’m in SuperteamDAO Turkey<br>
