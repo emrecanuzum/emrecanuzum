@@ -1,7 +1,7 @@
 # 💫 About Me:
-📖 software developer that Computer Engineering grad. from İstanbul Kultur University with Fake News Detection project.<br>
-💻 I'm building mostly front-end and full-stack websites as a remote worker.<br>
-🔭 I’m currently working on a project for Solana hackathon<br>
+📖 Software developer. Computer Engineering grad. from İstanbul Kultur University with Fake News Detection project.<br>
+💻 I'm building mostly front-end and full-stack websites as a OctoHaus employee and freelanced.<br>
+🔭 I’m currently working on a project for Solana hackathon (Voxvil3, FUTSOL) <br>
 👯 I’m in SuperteamDAO Turkey<br>
 🌱 I’m currently learning full stack with Next.js<br>
 💬 Ask me about Blockchain<br>
