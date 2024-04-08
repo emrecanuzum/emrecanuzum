@@ -34,12 +34,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-# 📊 GitHub Stats:
-![emrecanuzum's Stats](https://github-readme-stats.vercel.app/api?username=emrecanuzum&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emrecanuzum&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emrecanuzum&icon=5&color=10)](https://visitcount.itsvg.in)
