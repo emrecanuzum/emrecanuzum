@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 📖 Software Engineer  
 💻 Front-end & full-stack @ OctoHaus  
 🔭 Personal project: patinerede.com  
@@ -6,7 +6,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emrecanuzum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emrecanuzum) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emrecanuzum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RiluanethNFT) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
